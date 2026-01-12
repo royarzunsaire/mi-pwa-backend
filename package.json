@@ -12,7 +12,10 @@
   "license": "ISC",
   "dependencies": {
     "@supabase/supabase-js": "^2.89.0",
+<<<<<<< HEAD
     "axios": "^1.13.2",
+=======
+>>>>>>> ac5afb82baea1153443079899f4f9249f20d3542
     "cors": "^2.8.5",
     "dotenv": "^16.0.3",
     "express": "^4.18.2",
